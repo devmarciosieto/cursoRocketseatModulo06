@@ -1,0 +1,32 @@
+yarn add eslint -D
+
+yarn eslint --init
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+react-native start --reset-cache
+
+yarn add reactotron-react-native
+
+~/Android/Sdk/platform-tools/adb reverse tcp:9090 tcp:9090
+
+ou só
+
+adb reverse tcp:9090 tcp:9090
+
+yarn add react-navigation react-native-gesture-handler react-native-reanimated
+
+yarn add styled-components
+
+yarn add react-native-vector-icons
+
+react-native link react-native-vector-icons
+
+yarn add axios
+
+yarn add @react-native-community/async-storage
+
+yarn add prop-types
+
+
+
